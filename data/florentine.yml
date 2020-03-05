@@ -157,8 +157,6 @@ adjlist_inner_dict_factory: &id021 !!python/name:builtins.dict ''
 adjlist_outer_dict_factory: *id021
 edge_attr_dict_factory: *id021
 graph: {}
-graph_attr_dict_factory: *id021
-node_attr_dict_factory: *id021
 node_dict_factory: *id021
 nodes: !!python/object:networkx.classes.reportviews.NodeView
   _nodes: *id022
